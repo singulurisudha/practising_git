@@ -2,4 +2,6 @@ iam learning github
 iam learning creating repositories
 iam learning adding files into repository
 iam adding more content using vim command
+iam created new branch named feature and writing this content when iam on feature branch
 iam writing this line when iam on my_local_branch 
+
